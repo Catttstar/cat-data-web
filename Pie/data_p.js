@@ -1,0 +1,107 @@
+let evaluation_ratio_1= [
+    {
+        "name":"鋼骨混凝土",
+        "count":67206
+    },
+    {
+        "name":"鋼骨鋼筋混凝土",
+        "count":71876
+    },
+    {
+        "name":"鋼筋混凝土",
+        "count":6243068
+    },
+    {
+        "name":"磚、木、石造",
+        "count":673416
+    },
+    {
+        "name":"加強磚造",
+        "count":1692586
+    },
+    {
+        "name":"其他",
+        "count":290611
+    }
+];
+
+let evaluation_ratio_2= [
+    {
+        "name":"鋼骨混凝土",
+        "count":10702
+    },
+    {
+        "name":"鋼骨鋼筋混凝土",
+        "count":13504
+    },
+    {
+        "name":"鋼筋混凝土",
+        "count":771386
+    },
+    {
+        "name":"磚、木、石造",
+        "count":23414
+    },
+    {
+        "name":"加強磚造",
+        "count":81609
+    },
+    {
+        "name":"其他",
+        "count":2212
+    }
+];
+
+let evaluation_ratio_3= [
+    {
+        "name":"鋼骨混凝土",
+        "count":5159
+    },
+    {
+        "name":"鋼骨鋼筋混凝土",
+        "count":551
+    },
+    {
+        "name":"鋼筋混凝土",
+        "count":448196
+    },
+    {
+        "name":"磚、木、石造",
+        "count":68906
+    },
+    {
+        "name":"加強磚造",
+        "count":156890
+    },
+    {
+        "name":"其他",
+        "count":41570
+    }
+];
+
+let evaluation_ratio_4= [
+    {
+        "name":"鋼骨混凝土",
+        "count":1016
+    },
+    {
+        "name":"鋼骨鋼筋混凝土",
+        "count":141
+    },
+    {
+        "name":"鋼筋混凝土",
+        "count":60710
+    },
+    {
+        "name":"磚、木、石造",
+        "count":28585
+    },
+    {
+        "name":"加強磚造",
+        "count":36443
+    },
+    {
+        "name":"其他",
+        "count":5488
+    }
+];
