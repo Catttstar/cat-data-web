@@ -48,7 +48,7 @@ for(let i=0;i<evaluation_ratio_3.length;i++){
 
 let pie4 = {};
 pie4.type = "pie";
-pie4.title = "花蓮市";
+pie4.title = "花蓮縣";
 pie4.labels = [];
 pie4.values = [];
 pie4.domain = {

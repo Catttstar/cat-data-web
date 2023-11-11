@@ -1,28 +1,36 @@
-let animals_Taipei_zoo= [
+let science= [
     {
-        "name":"lion",
-        "count":20
+        "name":"EU",
+        "count":6+21+10+9+17
     },
     {
-        "name":"tiger",
-        "count":14
+        "name":"Asia",
+        "count":8+19+32+4+22
     },
     {
-        "name":"monkey",
-        "count":23
+        "name":"North America",
+        "count":7+0+4+1+2
+    },
+    {
+        "name":"Total",
+        "count":21+40+46+14+41
     }
 ];
-let animals_Taoyuan_zoo= [
+let nonscience= [
     {
-        "name":"lion",
-        "count":10
+        "name":"EU",
+        "count":83+3
     },
     {
-        "name":"tiger",
-        "count":30
+        "name":"Asia",
+        "count":6+7
     },
     {
-        "name":"monkey",
-        "count":5
+        "name":"North America",
+        "count":9+0
+    },
+    {
+        "name":"Total",
+        "count":98+0
     }
 ];
